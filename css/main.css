@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    
+}
+
+number{
+    color: green;
+    font-weight: 900;
+}
+.old-price{
+    text-decoration: line-through;
+    font-size: 13px;
+    font-style: italic;
+    color: red;
+}
+i{
+    padding: 5px;
+}
+button{
+    padding: 5px 10px;
+    background-color: rgb(102, 118, 189);
+    color: white;
+    float: left;
+}
+
+
+.child{
+    
+    width: 25%;
+    float:left;
+   
+    
+}
+img{
+    width: 20%;
+}
+p{
+    font-size: 10px;
+}
+
